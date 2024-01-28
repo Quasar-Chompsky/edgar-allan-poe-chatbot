@@ -5,10 +5,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "author": "Patrick McAuliffe",
-  "license": "MIT",
+  "license": "MIT", 
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^16.4.1",
