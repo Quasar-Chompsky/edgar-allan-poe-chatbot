@@ -1,0 +1,18 @@
+{
+  "name": "poe-bot",
+  "version": "1.0.0",
+  "description": "A bot that writes like Edgar Allan Poe",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "Patrick McAuliffe",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.0",
+    "readline-sync": "^1.4.10"
+  }
+}
